@@ -1,2 +1,5 @@
 ---
-# tasks file for ansible-role-epel/
+- name: install EPEL
+  yum:
+    name: epel-release
+    state: present
