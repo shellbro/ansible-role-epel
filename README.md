@@ -21,8 +21,7 @@ None
 Example Playbook
 ----------------
 
-    - name: install EPEL
-      hosts: all
+    - hosts: servers
       roles:
          - shellbro.epel
 
