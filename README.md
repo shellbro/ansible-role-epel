@@ -1,4 +1,4 @@
-Role Name
+epel
 =========
 
 Ansible role that sets up EPEL repository in CentOS.
