@@ -1,7 +1,7 @@
 epel
 ====
 
-Ansible role that sets up EPEL repository in CentOS.
+Ansible role that sets up EPEL repository in CentOS 7.
 
 Requirements
 ------------
