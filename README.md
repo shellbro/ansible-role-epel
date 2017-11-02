@@ -1,6 +1,8 @@
 epel
 ====
 
+[![Build Status](https://travis-ci.org/shellbro/ansible-role-epel.svg?branch=master)](https://travis-ci.org/shellbro/ansible-role-epel)
+
 Ansible role that sets up EPEL repository in CentOS 7.
 
 Requirements
