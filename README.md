@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - shellbro.epel
+        - shellbro.epel
 
 License
 -------
