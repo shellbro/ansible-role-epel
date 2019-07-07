@@ -1,6 +1,5 @@
 ---
-
-- name: add EPEL repository
+- name: Add EPEL repository
   yum:
     name: epel-release
   become: true

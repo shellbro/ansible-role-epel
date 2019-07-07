@@ -1,8 +1,7 @@
 ---
-
 galaxy_info:
   author: Jakub Gorczyca
-  description: Ansible role that sets up EPEL repository in CentOS 7.
+  description: Ansible role for installing EPEL repository in CentOS 7
 
   issue_tracker_url: https://github.com/shellbro/ansible-role-epel/issues
 
@@ -11,7 +10,7 @@ galaxy_info:
   min_ansible_version: 2.4
 
   platforms:
-    - name: CentOs
+    - name: EL
       versions:
         - 7
 
